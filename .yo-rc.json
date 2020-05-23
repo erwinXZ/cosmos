@@ -1,0 +1,77 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.techne.cosmos",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "cosmos",
+    "packageName": "com.techne.cosmos",
+    "packageFolder": "com/techne/cosmos",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGRhNTAyOWI4OWQ5YzUwZjEzYTRlYzlhNTM1MzdlN2FiZjk0ZTliZTdmNTRlMGZlMGU3NjFmODM2ZWIzMDNlNjgxNjc0YzhlMjY0MDhkYzE3MGE0NjBiNjg5MjA3ZjBkMDY5MzczZjU0ZTM1ZGU4MjAzNTkyMjQ4NDlhYWVhYzg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "slate",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1590250242890,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [
+      {
+        "name": "generator-jhipster-kotlin",
+        "version": "1.6.0"
+      },
+      {
+        "name": "generator-jhipster-audit-helper",
+        "version": "1.0.3"
+      },
+      {
+        "name": "generator-jhipster-paypal",
+        "version": "1.0.5"
+      },
+      {
+        "name": "generator-jhipster-translation",
+        "version": "1.0.4"
+      },
+      {
+        "name": "generator-jhipster-kutilang",
+        "version": "0.0.9"
+      },
+      {
+        "name": "@xiges/generator-jhipster-firebase",
+        "version": "0.0.5"
+      },
+      {
+        "name": "generator-jhipster-social-login-api",
+        "version": "0.0.1"
+      }
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "es"],
+    "blueprints": [
+      {
+        "name": "generator-jhipster-kotlin",
+        "version": "1.6.0"
+      }
+    ]
+  }
+}
