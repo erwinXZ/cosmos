@@ -44,10 +44,6 @@
         "version": "1.0.3"
       },
       {
-        "name": "generator-jhipster-paypal",
-        "version": "1.0.5"
-      },
-      {
         "name": "generator-jhipster-translation",
         "version": "1.0.4"
       },

@@ -90,7 +90,6 @@
     "typescript": "3.7.5",
     "generator-jhipster-kotlin": "1.6.0",
     "generator-jhipster-audit-helper": "1.0.3",
-    "generator-jhipster-paypal": "1.0.5",
     "generator-jhipster-translation": "1.0.4",
     "generator-jhipster-kutilang": "0.0.9",
     "@xiges/generator-jhipster-firebase": "0.0.5",

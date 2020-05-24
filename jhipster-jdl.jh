@@ -1,0 +1,16 @@
+
+entity Menu {
+    label String
+    name String
+    position Integer
+    level Integer
+    active Boolean
+}
+
+filter *
+
+dto * with mapstruct
+
+service all with serviceImpl
+
+paginate * with pagination

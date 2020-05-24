@@ -45,6 +45,7 @@ class CacheConfiguration(jHipsterProperties: JHipsterProperties) {
             createCache(cm, com.techne.cosmos.domain.User::class.java.name)
             createCache(cm, com.techne.cosmos.domain.Authority::class.java.name)
             createCache(cm, com.techne.cosmos.domain.User::class.java.name + ".authorities")
+            createCache(cm, com.techne.cosmos.domain.Menu::class.java.name)
             // jhipster-needle-ehcache-add-entry
         }
     }
